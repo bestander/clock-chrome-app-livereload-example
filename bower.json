@@ -1,0 +1,17 @@
+{
+  "name": "clock",
+  "main": "clock.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/GoogleChrome/chrome-app-samples",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chrome-app-livereload": "bestander/chrome-app-livereload#~0.0.5"
+  }
+}

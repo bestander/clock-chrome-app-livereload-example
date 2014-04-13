@@ -1,0 +1,15 @@
+{
+  "name": "chrome-app-livereload",
+  "homepage": "https://github.com/bestander/chrome-app-livereload",
+  "version": "0.0.5",
+  "_release": "0.0.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.5",
+    "commit": "ebf2a10098a458af2c5235e5ebe7d1c508eedf1d"
+  },
+  "_source": "git://github.com/bestander/chrome-app-livereload.git",
+  "_target": "~0.0.5",
+  "_originalSource": "bestander/chrome-app-livereload",
+  "_direct": true
+}
