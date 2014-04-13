@@ -1,7 +1,7 @@
 <a target="_blank" href="https://chrome.google.com/webstore/detail/lhfiglpmnendbchimlikaeachppfonmm">![Try it now in CWS](https://raw.github.com/GoogleChrome/chrome-app-samples/master/tryitnowbutton.png "Click here to install this sample from the Chrome Web Store")</a>
 
-Livereload-enabled Chrome App example, see a [blog post](https://medium.com/p/2a58d804c496) for details.
-###
+## Livereload-enabled Chrome App example, see a [blog post](https://medium.com/p/2a58d804c496) for details.
+
 
 # Clock
 
